@@ -1,2 +1,2 @@
-# Sustainability-AI-Analysis
+# Sustainability-AI-Agent
 AI Odyssey Project 
